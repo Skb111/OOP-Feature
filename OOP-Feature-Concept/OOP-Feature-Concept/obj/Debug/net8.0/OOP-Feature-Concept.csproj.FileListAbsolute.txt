@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\Skb111\OOP-Feature\OOP-Feature-Concept\OOP-Feature-Concept\bin\Debug\net8.0\OOP-Feature-Concept.exe
+C:\Users\USER\source\repos\Skb111\OOP-Feature\OOP-Feature-Concept\OOP-Feature-Concept\bin\Debug\net8.0\OOP-Feature-Concept.deps.json
+C:\Users\USER\source\repos\Skb111\OOP-Feature\OOP-Feature-Concept\OOP-Feature-Concept\bin\Debug\net8.0\OOP-Feature-Concept.runtimeconfig.json
+C:\Users\USER\source\repos\Skb111\OOP-Feature\OOP-Feature-Concept\OOP-Feature-Concept\bin\Debug\net8.0\OOP-Feature-Concept.dll
+C:\Users\USER\source\repos\Skb111\OOP-Feature\OOP-Feature-Concept\OOP-Feature-Concept\bin\Debug\net8.0\OOP-Feature-Concept.pdb
+C:\Users\USER\source\repos\Skb111\OOP-Feature\OOP-Feature-Concept\OOP-Feature-Concept\obj\Debug\net8.0\OOP-Feature-Concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Skb111\OOP-Feature\OOP-Feature-Concept\OOP-Feature-Concept\obj\Debug\net8.0\OOP-Feature-Concept.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Skb111\OOP-Feature\OOP-Feature-Concept\OOP-Feature-Concept\obj\Debug\net8.0\OOP-Feature-Concept.AssemblyInfo.cs
+C:\Users\USER\source\repos\Skb111\OOP-Feature\OOP-Feature-Concept\OOP-Feature-Concept\obj\Debug\net8.0\OOP-Feature-Concept.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Skb111\OOP-Feature\OOP-Feature-Concept\OOP-Feature-Concept\obj\Debug\net8.0\OOP-Feature-Concept.sourcelink.json
+C:\Users\USER\source\repos\Skb111\OOP-Feature\OOP-Feature-Concept\OOP-Feature-Concept\obj\Debug\net8.0\OOP-Feature-Concept.dll
+C:\Users\USER\source\repos\Skb111\OOP-Feature\OOP-Feature-Concept\OOP-Feature-Concept\obj\Debug\net8.0\refint\OOP-Feature-Concept.dll
+C:\Users\USER\source\repos\Skb111\OOP-Feature\OOP-Feature-Concept\OOP-Feature-Concept\obj\Debug\net8.0\OOP-Feature-Concept.pdb
+C:\Users\USER\source\repos\Skb111\OOP-Feature\OOP-Feature-Concept\OOP-Feature-Concept\obj\Debug\net8.0\OOP-Feature-Concept.genruntimeconfig.cache
+C:\Users\USER\source\repos\Skb111\OOP-Feature\OOP-Feature-Concept\OOP-Feature-Concept\obj\Debug\net8.0\ref\OOP-Feature-Concept.dll
